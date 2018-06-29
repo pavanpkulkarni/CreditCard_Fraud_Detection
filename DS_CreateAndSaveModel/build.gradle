@@ -1,0 +1,8 @@
+apply plugin: 'scala'
+
+def fileName = "DS_CreateAndSaveModel-${version}.jar"
+println fileName
+
+dependencies{
+
+}

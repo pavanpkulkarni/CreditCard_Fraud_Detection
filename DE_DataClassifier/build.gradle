@@ -1,0 +1,10 @@
+apply plugin: 'scala'
+
+def fileName = "DE_DataClassifier-${version}.jar"
+println fileName
+
+dependencies{
+
+}
+
+

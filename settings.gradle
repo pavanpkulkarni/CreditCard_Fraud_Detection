@@ -1,0 +1,4 @@
+rootProject.name = 'CreditCard_Fraud_Detection'
+
+include 'DS_CreateAndSaveModel', 'DE_DataClassifier'
+
